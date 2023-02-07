@@ -6,7 +6,7 @@ var product = [{
 },
 {
     id: 'SP2',
-    name: 'Áo dài truyền thống',
+    name: 'Áo dài ',
     img: 'https://sallynguyen.vn/wp-content/uploads/2019/04/ao-dai-pham-huong-2015-1.jpg',
     price: 400000,
 },
